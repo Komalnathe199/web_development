@@ -1,0 +1,165 @@
+.navbar-nav-me-auto-mb-2-mb-lg-0 {
+  flex: 1;
+  text-align: right;
+}
+
+.nav-item {
+  list-style: none;
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.first-logo {
+  cursor: pointer;
+  margin-left: 200px;
+  align-items: center;
+}
+
+.nav-link-active {
+  color: #00e5ff;
+}
+
+.first {
+  background-color: #383636;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  text-align: left;
+}
+
+.time {
+  text-align: left;
+  margin-left: 200px;
+}
+
+.tele {
+  text-align: right;
+  margin-right: 200px;
+}
+
+.Second_Image {
+  width: 100%;
+  height: 680px;
+}
+
+.first-txt {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 500px;
+  left: 200px;
+  font-size: 70px;
+}
+
+.second-txt {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 580px;
+  left: 205px;
+}
+
+@media only screen and (max-width:700px) {}
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+#text {
+  display: none;
+}
+
+.btn-container {
+  margin: auto;
+  height: 44px;
+  width: 166.23px;
+  text-align: right;
+  margin-right: 400px;
+}
+
+button {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  cursor: pointer;
+  border: none;
+  padding: 8px;
+  font-size: 20px;
+  background: linear-gradient rgb(38, 141, 141);
+  font-family: cursive;
+  box-sizing: border-box;
+  left: 600px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgb(12, 11, 11);
+}
+
+.five h1 {
+  text-align: left;
+  font-size: 22px;
+  font-weight: 700;
+  color: #0c0606;
+  text-transform: uppercase;
+  word-spacing: 1px;
+  letter-spacing: 2px;
+}
+
+h1 {
+  position: relative;
+  padding: 0;
+  margin: 10;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  color: #080808;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+h1 span {
+  display: block;
+  font-size: 0.5em;
+  line-height: 1.3;
+}
+
+h1 em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.five h1 span {
+  margin-top: 40px;
+  text-transform: none;
+  font-size: .75em;
+  font-weight: normal;
+  font-style: italic;
+  font-family: "Playfair Display", "Bookman", serif;
+  color: rgb(164, 28, 28);
+  letter-spacing: -0.005em;
+  word-spacing: 1px;
+  letter-spacing: none;
+}
+
+.five h1:before {
+  position: absolute;
+  left: 0;
+  bottom: 38px;
+  width: 60px;
+  height: 4px;
+  content: "";
+  left: 50%;
+  margin-left: -30px;
+  background-color: #296a6c;
+}
+
+.service {
+  text-align: center;
+}
+
+.sent {
+  text-align: center;
+}
+.five {
+  background-color: #00e5ff;
+}
